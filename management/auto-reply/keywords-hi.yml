@@ -3,4 +3,5 @@ kind: image
 
 keyword: hi
 content: say hello from jenkins.
-mediaId: WTzqFwwW98L8b7PVgwfYDEl2W5zOLOXjkv5lVJNzyxgjHBOA1nwmIBSuia6Q5n2zRGqIQPk52ia4IE2WnSVY2mrA
+image:
+  mediaId: WTzqFwwW98L8b7PVgwfYDEl2W5zOLOXjkv5lVJNzyxgjHBOA1nwmIBSuia6Q5n2zRGqIQPk52ia4IE2WnSVY2mrA
