@@ -1,0 +1,10 @@
+kind: news
+keyword: about
+
+msgType: news
+articleCount: 1
+articles:
+- title: "title"
+  description: "desc"
+  picUrl: "https://raw.githubusercontent.com/jenkins-infra/wechat/master/images/vscode-pipeline-linter/example1.gif"
+  url: "https://mp.weixin.qq.com/s/4pktvfQ3tJZgqY--VgNgZQ"
